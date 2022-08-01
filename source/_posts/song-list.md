@@ -1,5 +1,6 @@
 ---
 title: 个人歌单
+index_img: /images/post/music-cover.jpg
 date: 2022-06-17 17:29:47
 categories:
 - 其他

@@ -1,5 +1,6 @@
 ---
 title: selenium -- 等待网页加载完成
+index_img: /images/post/selenium-cover.jpg
 date: 2022-06-17 17:35:12
 categories:
 - 开发
