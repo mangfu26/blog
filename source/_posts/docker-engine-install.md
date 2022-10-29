@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Docker 引擎安装
+index_img: /images/post/docker-cover.png
 date: 2022-10-08 11:52:18
 categories:
-- 开发
-- Docker
+- 建设
 tags: 
 - Docker
 ---
