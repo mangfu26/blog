@@ -1,0 +1,1 @@
+node .\node_modules\hexo\bin\hexo server
