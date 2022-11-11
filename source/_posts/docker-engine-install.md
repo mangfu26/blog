@@ -56,7 +56,7 @@ sudo groupadd docker
 
 # 将当前用户加入 docker 组, $USER 保存的是当前用户的名称, 需要添加其他用户的将 $USER 
 # 替换为目标用户名称
-sudo usermod -G docker $USER
+sudo gpasswd -a $USER docker
 
 # 重启 Docker 服务
 sudo service docker restart
